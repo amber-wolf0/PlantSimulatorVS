@@ -1,0 +1,16 @@
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\bin\Debug\net5.0\PlantSimulator.exe
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\bin\Debug\net5.0\PlantSimulator.deps.json
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\bin\Debug\net5.0\PlantSimulator.runtimeconfig.json
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\bin\Debug\net5.0\PlantSimulator.runtimeconfig.dev.json
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\bin\Debug\net5.0\PlantSimulator.dll
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\bin\Debug\net5.0\ref\PlantSimulator.dll
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\bin\Debug\net5.0\PlantSimulator.pdb
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\obj\Debug\net5.0\PlantSimulator.csproj.AssemblyReference.cache
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\obj\Debug\net5.0\PlantSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\obj\Debug\net5.0\PlantSimulator.AssemblyInfoInputs.cache
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\obj\Debug\net5.0\PlantSimulator.AssemblyInfo.cs
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\obj\Debug\net5.0\PlantSimulator.csproj.CoreCompileInputs.cache
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\obj\Debug\net5.0\PlantSimulator.dll
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\obj\Debug\net5.0\ref\PlantSimulator.dll
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\obj\Debug\net5.0\PlantSimulator.pdb
+C:\Users\ionam\Desktop\PlantSimulator\PlantSimulator\obj\Debug\net5.0\PlantSimulator.genruntimeconfig.cache

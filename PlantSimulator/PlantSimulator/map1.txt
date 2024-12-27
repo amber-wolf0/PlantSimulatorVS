@@ -1,0 +1,10 @@
+x, z, yHeight, isWater (0 no water, 1 water), soilType (0=Neutral, 1=Wet, 2=Dry, 3=Sandy, 4=Clay, 5=Rocky, 6=Arid, 7=Polar) each point is 1m
+0 0 250 0 0
+0 1 250 0 0
+1 1 250 0 0
+-1 -1 250 0 0
+1 -1 250 0 0
+1 0 250 0 0
+0 -1 250 0 0
+-1 1 250 0 0
+-1 0 250 0 0
